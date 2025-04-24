@@ -1,3 +1,5 @@
+## 此项目为[OpenClash](https://github.com/vernesong/OpenClash)的备份
+
 <h1 align="center">
   <img src="https://raw.githubusercontent.com/vernesong/OpenClash/dev/img/logo.png" alt="Clash" width="200">
   <br>OpenClash<br>
